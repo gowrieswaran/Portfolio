@@ -198,8 +198,9 @@
 /* Large Devices, Wide Screens */
 @media only screen and (min-width : 1200px) {  
     .profile {
-        text-align: center;
-        margin: 0 auto;
+        margin-right: 20px;
+        margin-top: 10px;
+        text-align: right;
     }
     .logo_img {
         text-align: center;
