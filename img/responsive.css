@@ -1,0 +1,35 @@
+/*  Smartphones */
+@media screen and (max-width: 480px) {
+    .container{
+        font-size: large;
+    }
+    .header{
+        width: 100%;
+        display: flex;
+        align-items: center;
+        text-align: center;
+    }
+    .logo{
+        width: 40%;
+        padding: 5px 0;
+    }
+    .logo-details {
+        width: 50%;
+        order: 1;
+    }
+    .mydetails{
+        width: 50%;
+        order: 2;
+    }
+    .projects{
+        width: 200px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
+
+/* i-pad */
+@media screen and (max-width: 768px){
+
+}
